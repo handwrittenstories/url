@@ -1,2 +1,0 @@
-# url
-TinyUrl for HandwrittenStories
